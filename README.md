@@ -1,2 +1,3 @@
 # practice
-aiueo
+# hard
+aiueo!
